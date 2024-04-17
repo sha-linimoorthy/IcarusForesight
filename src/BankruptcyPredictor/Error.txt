@@ -1,0 +1,1 @@
+-e . => didn't work because of WinError so manually installed python setup.py install

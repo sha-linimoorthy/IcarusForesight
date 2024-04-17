@@ -1,1 +1,16 @@
 pandas
+joblib
+pyYAML
+types-PyYAML
+mlflow==2.2.2
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+Flask
+Flask-Cors
+tqdm
+ensure==1.0.2
+
+-e .
